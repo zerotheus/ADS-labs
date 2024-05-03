@@ -10,4 +10,6 @@ nova funcao para mostrar o comando de merge do git
 
 mais texto
 
-testando mais texto..
+
+testando 1-2-3
+
