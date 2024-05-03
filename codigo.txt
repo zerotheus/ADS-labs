@@ -9,3 +9,5 @@ um trecho de codigo aqui
 nova funcao para mostrar o comando de merge do git
 
 mais texto
+
+testando mais texto..
